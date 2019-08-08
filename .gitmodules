@@ -4,3 +4,6 @@
 [submodule "make-release"]
 	path = make-release
 	url = https://pro-mole@github.com/brazmogu/brazmogu-release.git
+[submodule "template"]
+	path = template
+	url = https://pro-mole@github.com/brazmogu/brazmogu-template.git
