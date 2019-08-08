@@ -1,0 +1,3 @@
+[submodule "love2d"]
+	path = love2d
+	url = https://pro-mole@github.com/brazmogu/brazmogu-love.git
