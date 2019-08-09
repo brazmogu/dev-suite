@@ -7,3 +7,6 @@
 [submodule "template"]
 	path = template
 	url = https://pro-mole@github.com/brazmogu/brazmogu-template.git
+[submodule "fonts"]
+	path = fonts
+	url = https://pro-mole@github.com/brazmogu/brazmogu-fonts

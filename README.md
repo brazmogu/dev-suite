@@ -15,3 +15,7 @@ Template for BrazMogu LÖVE projects
 ## Release Script
 
 Script to generate releases of projects made with BrazMogu LÖVE.
+
+## Fonts
+
+Some fonts I've made, with their raw files. Some fun resources.
